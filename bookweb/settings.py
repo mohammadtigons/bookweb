@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-5vzuy(ch!zeyx04aajv!w8ofr5d7s@#35h!7n-xu3_@-ty&wow
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["http://blackhill360.runflare.run/"]
+ALLOWED_HOSTS = ["www.blackhill360.runflare.run",'blackhill360.runflare.run']
 
 
 # Application definition
